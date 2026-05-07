@@ -6,7 +6,6 @@ def test_pad_unpad_roundtrip():
     # Đảm bảo unpad(pad(x)) trả về đúng x ban đầu
     assert unpad(pad(data)) == data
     
-
 def test_build_packet_contains_correct_length():
     """Kiểm tra cấu trúc gói tin (Header + Ciphertext)."""
     # 1. Chuẩn bị dữ liệu mẫu (7 bytes, cần được pad lên 8 bytes bên trong encrypt_des_cbc)
