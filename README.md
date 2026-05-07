@@ -99,6 +99,7 @@ Vì lab này đang dùng mô hình **gửi key và IV dưới dạng plaintext t
 - threats
 - mitigations
 - residual risks
+  
 
 ## Ethics & Safe use
 - Chỉ chạy demo trên máy cá nhân, VM, hoặc mạng nội bộ phục vụ học tập.
