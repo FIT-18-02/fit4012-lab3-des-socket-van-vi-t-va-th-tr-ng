@@ -5,8 +5,6 @@ import sys
 import time
 from pathlib import Path
 
-
-
 # Xác định thư mục gốc của project
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
