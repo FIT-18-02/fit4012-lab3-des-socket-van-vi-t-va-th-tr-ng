@@ -1,8 +1,8 @@
 # Threat Model - Lab 3
 
 ## Thông tin nhóm
-- Thành viên 1: Phạm Danh Thái
-- Thành viên 2: Nguyễn Đình Trí
+- Thành viên 1: Hà Văn Việt
+- Thành viên 2: Hoàng Thế Trường
 
 
 ## Assets
